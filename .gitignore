@@ -1,3 +1,15 @@
 serviceAccountKey.json
 .env
 node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Coverage
+coverage
+.nyc_output
+
+# Build
+build/
